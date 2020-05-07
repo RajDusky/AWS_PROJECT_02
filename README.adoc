@@ -235,4 +235,4 @@ The following guides may also be helpful:
 * https://spring.io/guides/gs/rest-hateoas/[Building a Hypermedia-Driven RESTful Web Service]
 * https://spring.io/guides/gs/circuit-breaker/[Circuit Breaker]
 
-include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/master/footer.adoc[]    
+include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/master/footer.adoc[]       

@@ -1,0 +1,10 @@
+package com.example.restservice;
+
+public class Testing {
+
+	public static void main(String[] args) {
+		System.out.println("Hello From Tamil!!!");
+
+	}
+
+}
